@@ -1,4 +1,4 @@
-export const apiKey = ''; // from https://www.weatherapi.com
+export const apiKey = '3886d65df3b1479cb8f195300243011'; // from https://www.weatherapi.com
 
 
 
